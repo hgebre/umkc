@@ -21,7 +21,7 @@ bln_append_filename = 1
 
 if len(sys.argv) == 1:
     print "Please input xls - file name to covert to csv"
-    print "usage: python gFiber.py (required inputfilenamd) (optional outputfilename)"
+    print "usage: python googleFiber.py (required inputfilenamd) (optional outputfilename)"
     sys.exit(0)
 
 infile = sys.argv[1]
